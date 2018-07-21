@@ -4,15 +4,14 @@ displaying user details from server, displaying user details and adding new user
 
 Add User View
 <p align="center">
-  <img src="assets/add-user.jpg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="assets/icons/add-user.jpg" width="350" title="hover text">
 </p>
 
 Users List View
-![Alt text](assets/user-list.JPG?raw=true "Title")
+![Alt text](assets/icons/user-list.JPG?raw=true "Title")
 
 User Details View
-![Alt text](assets/user-details.JPG?raw=true "Title")
+![Alt text](assets/icons/user-details.JPG?raw=true "Title")
 
 
 
