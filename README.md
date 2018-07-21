@@ -1,9 +1,9 @@
 # user-details
-displaying user details from server, displaying user details and adding new user (not finished)
+displaying user details from server, displaying user details and adding new user (not finished),Add User View, Users List View, user details view
 
 
-Add User View, Users List View, user details view
-  ![Alt text](assets/icons/user-add.JPG?raw=true "Title")
+
+![Alt text](assets/icons/user-add.JPG?raw=true "Title")
 
 ![Alt text](assets/icons/user-list.JPG?raw=true "Title")
 
