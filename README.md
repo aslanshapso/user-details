@@ -4,7 +4,7 @@ displaying user details from server, displaying user details and adding new user
 
 Add User View
 <p align="center">
-  <img src="assets/icons/add-user.jpg" width="350" title="hover text">
+  <img src="assets/icons/add-user.JPG" width="350" height="200" >
 </p>
 
 Users List View
