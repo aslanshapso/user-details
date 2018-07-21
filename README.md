@@ -3,13 +3,13 @@ displaying user details from server, displaying user details and adding new user
 
 
 Add User View
-![Alt text](assets/add-user.jpg?raw=true "Title")
+![Alt text](assets/add-user.JPG?raw=true "Title")
 
 Users List View
-![Alt text](assets/user-list.jpg?raw=true "Title")
+![Alt text](assets/user-list.JPG?raw=true "Title")
 
 User Details View
-![Alt text](assets/user-details.jpg?raw=true "Title")
+![Alt text](assets/user-details.JPG?raw=true "Title")
 
 
 
